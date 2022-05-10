@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    justify-content: center;
+}
+
+table{
+    align-self: center;
+}
+
+.data{
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: silver;
+}
+
+.info{
+    background-color:yellow;
+    padding:50px;
+}
